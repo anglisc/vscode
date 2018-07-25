@@ -1,0 +1,22 @@
+{
+  "editor.matchBrackets": false,
+  "editor.fontFamily": "Monaco, Menlo, 'Courier New', monospace",
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.rulers": [ 80 ],
+  "editor.minimap.enabled": false,
+  "extensions.ignoreRecommendations": true,
+  "files.associations": {
+      "*.bats": "shellscript",
+      ".env": "ini"
+  },
+  "files.autoSave": "afterDelay",
+  "typescript.check.npmIsInstalled": false,
+  "workbench.colorTheme": "Monokai Dimmed",
+  "workbench.sideBar.location": "right",
+  "workbench.editor.enablePreview": true,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.activityBar.visible": true,
+  "workbench.startupEditor": "none"
+}
